@@ -10,3 +10,15 @@ Blah blah
 
 
 Blah blah
+
+
+Well this is my sandbox
+-----------------------
+
+Blah 
+
+
+Installation
+------------
+
+More details [here](INSTALL.md)
