@@ -31,9 +31,10 @@ Some list
 
 This is a test:
 
-	* [Blah]: blahblah
-	* [Bleh]: blehbleh
-	* [Blih]: blihblih
+* [Blah]: blahblah
+* [Bleh]: blehbleh
+* [Blih]: blihblih
+
 
 [Blah]: INSTALL.md
 [Bleh]: http://github.com/
