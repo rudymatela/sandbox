@@ -1,0 +1,63 @@
+MYTEST(1)
+=========
+
+
+NAME
+----
+mytest - some test test test
+
+
+SYNOPSIS
+--------
+*mytest* 'something...'
+
+
+DESCRIPTION
+-----------
+*mytest* lorem ipsum dolor sit amet
+
+
+OPTIONS
+-------
+*-h*, *--help*::
+	Shows help
+
+*-v*, *--version*::
+	Shows version
+
+*-o*, *--output*='FILE'::
+	Output to 'FILE'
+
+*-c*, *--cat*::
+	Overrides '-o' and '-v'.
+
+
+EXAMPLES
+--------
+*mytest file.txt*
+
+Lorem ipsum dolor sit amet.  The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet.  The quick brown fox jumps over the lazy dog.
+
+*mytest file2.txt*
+
+Lorem ipsum dolor sit amet.  The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet.  The quick brown fox jumps over the lazy dog.
+
+
+BUGS
+----
+
+Report bugs to someone@example.com
+
+
+SEE ALSO
+--------
+*blah*(1), *bleh*(1), *blih*(3)
+
+
+COPYRIGHT
+---------
+Copyright (C) 2013 Someone. Free use of this software is granted under the
+terms of the GNU General Public License version 2 or any later version.
+
